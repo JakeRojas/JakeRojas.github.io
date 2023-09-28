@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://JakeRojas.github.io/sitemap-index.xml
+Sitemap: https://JakeRojas.github.io/sitemap-0.xml
